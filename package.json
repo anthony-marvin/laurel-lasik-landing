@@ -1,0 +1,22 @@
+{
+  "name": "glacialproduction",
+  "version": "1.0.0",
+  "description": "A collection of Gulp Tools design to work with sites in production",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony",
+  "license": "ISC",
+  "devDependencies": {
+    "critical": "^0.9.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uncss": "^1.0.6"
+  },
+  "dependencies": {
+    "save-dev": "^2.0.0"
+  }
+}
